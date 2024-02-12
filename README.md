@@ -7,7 +7,7 @@ I aimed to develop scalable shipping methods alongside local decentralized marke
 ![img](src/assets/original.png)
 
 ![img](src/assets/gallery.jpg)
-![img]("src/assets/gallery1.jpg")
+![img](src/assets/gallery1.jpg)
 
 
 
